@@ -10,6 +10,6 @@ The software uses a design pattern called “random walker” which is a random 
 
 So, now we have a  single “spoke” built up in memory in an ArrayList - you can think of this as a dynamic array that can grow in size as needed.  All that is left to do is read the ArrayList one circle at a time and show the build-up on the screen as tiny circles.  So now you see why the snowflake builds from the inside-out. 
 
-As you draw one single circle on the screen, rotate and translate by 2*PI / 6 (or PI / 3) radians and draw five more. Then you do it again for the next circle and the next one and so on.  
+As you draw one single circle on the screen, rotate and translate by 2*PI/6 (or PI/3) radians and draw five more. Then you do it again for the next circle and the next one and so on.  
 
 Jingle Jingle - there you have it.
