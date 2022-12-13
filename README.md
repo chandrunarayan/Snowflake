@@ -13,4 +13,4 @@ As you draw one single circle on the screen, rotate and translate by 2*PI / 6 (o
 
 Jingle Jingle - there you have it.
 
-![snowflake](snowflake.png)
+![snowflake](Snowflake.png)
