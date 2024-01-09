@@ -13,4 +13,6 @@ As you draw one single circle on the screen, rotate and translate by 2*PI / 6 (o
 
 Jingle Jingle - there you have it.
 
+### [Click here to see the animation expected from your Java program](https://youtu.be/dQYC5pz3RRA)
+
 ![snowflake](Snowflake.png)
