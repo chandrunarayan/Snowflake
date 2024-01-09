@@ -13,6 +13,6 @@ As you draw one single spoke on the canvas, ```rotate()``` and ```translate()```
 
 Jingle Jingle - there you have it.
 
-### [Click here to see the animation expected from your Java program](https://youtu.be/dQYC5pz3RRA)
+### [Click here to see the animation expected from your Java program](https://youtu.be/fIpWDhBITps)
 
 ![snowflake](Snowflake.png)
