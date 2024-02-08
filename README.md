@@ -11,6 +11,8 @@ So, now we have a  single “spoke” built up in memory in an ArrayList - you c
 
 As you draw one single spoke on the canvas, ```rotate()``` and ```translate()``` by 2*PI / 6 (or PI / 3) radians and draw five more. You may also want to mirror each spoke with the ```scale()``` commandThen you do it again for the next spoke and the next one and so on.  
 
+An additional requirement is for you to add a ```CFlake``` class as a child of the Flake class.  CFlake class instances will have color.  You will need to create a ```Constructor``` for ```CFlake```, add the ```clr``` property, and initialize it. You should also You should ensure that randomly 50% of all snowflakes have color.
+
 Jingle Jingle - there you have it.
 
 ### [Click here to see the animation expected from your Java program](https://youtu.be/fIpWDhBITps)
